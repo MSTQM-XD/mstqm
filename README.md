@@ -11,4 +11,4 @@ $ pip install rich
 $ pip install BeautifulSoup
 $ pkg install git
 $ git clone https://github.com/MSTQM-XD/mstqm
-$ python MSTQM.py
+$ python mstqm.py
